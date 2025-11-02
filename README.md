@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Tayene Ramires!
 
-🎓 Graduanda em **Sistemas de Informação**  
+🎓 Graduanda em **Sistemas de Informação** pela **Faculdade Impacta de Tecnologia (FIT)**  
 💻 Estudante do **Bootcamp Full-Stack JavaScript** pela **Generation Brasil**  
 💡 Apaixonada por tecnologia, aprendizado contínuo e desafios!
 
