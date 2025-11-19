@@ -1,31 +1,32 @@
 <div align="center">
 
-  <div style="display: flex; justify-content: flex-end; width: 100%; margin-bottom: 20px;">
-    <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif"
-         width="120"
-         style="border-radius: 16px; box-shadow: 0 0 12px #ff9acb;" />
+  <!-- GIF gatinho rosa dev-tech -->
+  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif"
+       width="200"
+       style="border-radius: 16px; margin-bottom: 18px; box-shadow: 0 0 12px #ff9acb;" />
+
+  <!-- Nome + Título com ponto rosa separador -->
+  <div style="display: flex; justify-content: center; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 12px;">
+    <span style="font-size: 36px; font-weight: 900; color: #ff7ab8;">
+      ✨ Tayene Ramires ✨
+    </span>
+    <span style="font-size: 20px; color: #ff9acb;">●</span>
+    <span style="font-size: 28px; font-weight: 600; color: #ff9acb;">
+      💗 Desenvolvedora Web 💗
+    </span>
   </div>
 
-  <div style="margin-top: -80px; text-align: center;"> <span style="font-size: 36px; font-weight: 900; color: #ff7ab8;">
-      ✨ Tayene Ramires
-    </span>
-    <span style="font-size: 36px; font-weight: 900; color: #ff7ab8; margin: 0 10px;">
-      💗
-    </span>
-    <span style="font-size: 36px; font-weight: 900; color: #ff9acb;">
-      Desenvolvedora Web 💗
-    </span>
-  </div>
+  <!-- Linha decorativa -->
+  <hr style="border: none; height: 3px; width: 60%; background: linear-gradient(to right, #ffb6d9, #ff7ab8, #ffb6d9); border-radius: 4px; margin: 20px auto;" />
 
-  <hr style="border: none; height: 2px; background-color: #ff9acb; margin: 20px 0;">
-
-  <br>
+  <!-- Badges com cores oficiais (profissional) -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <br><br>
 
 </div>
+
 ---
 
 Sou naturalmente **curiosa**, daquela que não sossega até entender *por que o código quebrou*, e adoro aprender coisas novas todos os dias.
