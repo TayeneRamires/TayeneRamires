@@ -11,7 +11,7 @@
 
 ## 👋 Sobre mim
 
-Oi! Sou a **Tay**, desenvolvedora web em formação e apaixonada por criar soluções simples, funcionais e bonitas.  
+Oi! Sou a **Tay**, desenvolvedora web em formação e apaixonada por criar soluções simples e funcionais.  
 Sou naturalmente **curiosa**, daquela que não sossega até entender *por que o código quebrou*, e adoro aprender coisas novas todos os dias.
 
 Atualmente estou:
