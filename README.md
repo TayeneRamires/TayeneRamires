@@ -1,5 +1,5 @@
 <!-- GIF no canto direito -->
-<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="140" align="right" />
+<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="240" align="right" />
 
 # ✨ Tayene Ramires 🩷 Desenvolvedora Web ✨
 <!-- Badges com cores oficiais -->
