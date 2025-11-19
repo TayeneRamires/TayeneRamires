@@ -5,8 +5,6 @@
   <h3>(Tay 💗)</h3>
   <h3>💻 Desenvolvedora Web 💗</h3>
 </div>
-
-
 ---
 
 Sou naturalmente **curiosa**, daquela que não sossega até entender *por que o código quebrou*, e adoro aprender coisas novas todos os dias.
