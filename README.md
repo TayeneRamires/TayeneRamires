@@ -20,8 +20,6 @@ Atualmente estou:
 - 🧠 Aprofundando meus estudos em JavaScript, TypeScript, Node.js, POO e boas práticas  
 - 🚀 Em transição do setor financeiro para tecnologia, trazendo comigo organização, visão de processos, disciplina e foco
 
-Gosto de manter tudo organizado e com um toque de estética (inclusive meu README ✨).
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
