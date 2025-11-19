@@ -62,8 +62,8 @@ Atualmente estou:
 
 <div align="center">
 
-![Tay GitHub Stats](https://github-readme-stats.vercel.app/api?username=TayeneRamires&show_icons=true&theme=rose_pine)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TayeneRamires&layout=compact&theme=rose_pine)
+![Tay GitHub Stats](https://github-readme-stats.vercel.app/api?username=TayeneRamires&show_icons=true&theme=rose_pine&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TayeneRamires&layout=compact&theme=rose_pine&hide_border=true)
 
 </div>
 
@@ -79,7 +79,6 @@ Atualmente estou:
 ---
 
 <div align="center">
-
 ### 🌷 Obrigada por passar por aqui!  
 Se quiser trocar ideia sobre código, carreira ou projetos, é só chamar.  
 
