@@ -1,18 +1,21 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif"
-       width="200"
-       style="border-radius: 16px; margin-bottom: 18px; box-shadow: 0 0 12px #ff9acb;" />
+  <div style="display: flex; justify-content: flex-end; width: 100%; margin-bottom: 20px;">
+    <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif"
+         width="120"
+         style="border-radius: 16px; box-shadow: 0 0 12px #ff9acb;" />
+  </div>
 
-  <span style="font-size: 36px; font-weight: 900; color: #ff7ab8;">
-    ✨ Tayene Ramires
-  </span>
-  <span style="font-size: 36px; font-weight: 900; color: #ff7ab8;">
-    •
-  </span>
-  <span style="font-size: 36px; font-weight: 900; color: #ff9acb;">
-    Desenvolvedora Web 💗
-  </span>
+  <div style="margin-top: -80px; text-align: center;"> <span style="font-size: 36px; font-weight: 900; color: #ff7ab8;">
+      ✨ Tayene Ramires
+    </span>
+    <span style="font-size: 36px; font-weight: 900; color: #ff7ab8; margin: 0 10px;">
+      💗
+    </span>
+    <span style="font-size: 36px; font-weight: 900; color: #ff9acb;">
+      Desenvolvedora Web 💗
+    </span>
+  </div>
 
   <hr style="border: none; height: 2px; background-color: #ff9acb; margin: 20px 0;">
 
