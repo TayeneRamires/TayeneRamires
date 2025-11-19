@@ -7,34 +7,26 @@
 
   <!-- Nome aesthetic girly-tech -->
   <span style="font-size: 32px; font-weight: 900; color: #ff7ab8;">
-    ✨🐱 Tayene Ramires 🐱✨
+    ✨ Tayene Ramires ✨
   </span>
 
   <br>
 
   <!-- Subtítulo -->
   <span style="font-size: 20px; color: #ff9acb;">
-    💗 Desenvolvedora Web • Pink Dev Tech 💗
+    💗 Desenvolvedora Web 💗
   </span>
 
   <br><br>
 
   <!-- Gatinho menor segurando tudo no tema -->
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
-       width="120"
-       style="border-radius: 12px; margin-bottom: 10px;" />
 
   <!-- Badges com cores oficiais (profissional) -->
   <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
   <br><br>
-
-  <!-- Linha aesthetic rosinha -->
-  <img src="https://i.imgur.com/9P7B3Wj.png" width="500" />
 
 </div>
 
