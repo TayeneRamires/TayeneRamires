@@ -1,7 +1,7 @@
 <!-- GIF no canto direito -->
 <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="240" align="right" />
 
-# ✨ Tayene Ramires 🩷 Desenvolvedora Web ✨
+# ✨ Tayene Ramires ✦ Desenvolvedora Web ✨
 <!-- Badges com cores oficiais -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
