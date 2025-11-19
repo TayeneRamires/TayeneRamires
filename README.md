@@ -21,9 +21,6 @@
 
   <br><br>
 
-  <!-- Linha rosinha aesthetic bonita -->
-  <img src="https://i.imgur.com/9P7B3Wj.png" width="500" />
-
   <br><br>
 
   <!-- Badges com cores oficiais -->
