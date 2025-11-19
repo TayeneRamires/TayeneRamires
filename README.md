@@ -1,20 +1,18 @@
 <div align="center">
 
-<table>
-<tr>
-<td>
-<h1>✨ Tayene Ramires ✨</h1>
-<h3>(Tay 💗)</h3>
-<h3>💻 Desenvolvedora Web 💗</h3>
-</td>
-<td>
-<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="200">
-</td>
-</tr>
-</table>
+  <h1>✨ Tayene Ramires ✨</h1>
+  <h3>(Tay 💗)</h3>
+  <h3>💻 Desenvolvedora Web 💗</h3>
 
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="260" style="border-radius: 12px;" />
+</div>
+
+<br><br>
 ---
 
 Sou naturalmente **curiosa**, daquela que não sossega até entender *por que o código quebrou*, e adoro aprender coisas novas todos os dias.
