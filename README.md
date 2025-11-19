@@ -6,20 +6,23 @@
 
 <div align="center">
 
-  <!-- Nome + separador pink + título -->
-  <span style="font-size: 48px; font-weight: 900; color: #ff7ab8; display: inline-block; margin-right: 10px;">
-    ✨ Tayene Ramires 
-  </span>
+  <h1 style="font-weight: 900;">
 
-  <span style="font-size: 48px; color: #ff1493; font-weight: 900;">
-    •
-  </span>
+    <span style="color: #ff7ab8;">
+      ✨ Tayene Ramires
+    </span>
 
-  <span style="font-size: 48px; color: #ff9acb; display: inline-block; margin-left: 10px;">
-    Desenvolvedora Web ✨
-  </span>
+    <span style="color: #ff1493; font-weight: 900;">
+      •
+    </span>
 
-  <br><br>
+    <span style="color: #ff9acb;">
+      Desenvolvedora Web ✨
+    </span>
+
+  </h1>
+
+  <br>
 
   <!-- Badges com cores oficiais -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -29,6 +32,7 @@
   <br><br>
 
 </div>
+
 
 ---
 
