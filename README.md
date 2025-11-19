@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="LINK-DO-GIF" width="120px" />
   <span style="margin-left: 20px;">
     ┏━━━━━━━━━━━━━━━━━━━┓  
     ┃ 🌸 Tayene Ramires • Dev Web 🌸 ┃  
     ┗━━━━━━━━━━━━━━━━━━━┛  
   </span>
 </div>
+
 
 ---
 
