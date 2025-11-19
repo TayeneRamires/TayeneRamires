@@ -3,8 +3,6 @@
 # 🌸 Tayene Ramires • Desenvolvedora Web  
 ✨ Pode me chamar de **Tay** ✨
 
-<img src="BANNER-AQUI.png" width="100%" />
-
 </div>
 
 ---
