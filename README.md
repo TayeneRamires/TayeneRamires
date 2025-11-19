@@ -1,13 +1,21 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" />
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="140" />
+    </td>
+    <td>
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓  
 ┃ 🌸 Tayene Ramires • Dev Web 🌸 ┃  
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛  
 
-</div>
+    </td>
+  </tr>
+</table>
 
+</div>
 ---
 
 Sou naturalmente **curiosa**, daquela que não sossega até entender *por que o código quebrou*, e adoro aprender coisas novas todos os dias.
