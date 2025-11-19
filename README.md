@@ -8,17 +8,16 @@
 
   <h1 style="font-weight: 900;">
 
-    <span style="color: #ff7ab8;">
-      ✨ Tayene Ramires
-    </span>
+<div align="center">
 
-    <span style="color: #ff1493; font-weight: 900;">
-      •
-    </span>
+<h1 style="font-weight:900;">
+  <span style="color:#ff7ab8;">✨ Tayene Ramires </span>
+  <span style="color:#ff1493;">•</span>
+  <span style="color:#ff9acb;"> Desenvolvedora Web ✨</span>
+</h1>
 
-    <span style="color: #ff9acb;">
-      Desenvolvedora Web ✨
-    </span>
+</div>
+
 
   </h1>
 
