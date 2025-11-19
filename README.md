@@ -1,20 +1,5 @@
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="130">
-    </td>
-    <td align="center" style="font-size: 22px; font-weight: bold; color: #ffb3da;">
-      
-      ✦━━━━━━━━━━✦  
-      🌸 Tayene Ramires • Dev Web 🌸  
-      ✦━━━━━━━━━━✦
-
-    </td>
-  </tr>
-</table>
-
+  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="350" />
 </div>
 
 ---
