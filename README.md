@@ -5,27 +5,31 @@
        width="200"
        style="border-radius: 16px; margin-bottom: 18px; box-shadow: 0 0 12px #ff9acb;" />
 
-  <!-- Nome aesthetic girly-tech -->
-  <span style="font-size: 32px; font-weight: 900; color: #ff7ab8;">
+  <br>
+
+  <!-- Nome + ponto rosa + Desenvolvedora Web -->
+  <span style="font-size: 28px; font-weight: 900; color: #ff7ab8; display: inline-block; margin-right: 6px;">
     ✨ Tayene Ramires ✨
   </span>
 
-  <br>
+  <span style="font-size: 24px;">🌸</span>
 
-  <!-- Subtítulo -->
-  <span style="font-size: 20px; color: #ff9acb;">
+  <span style="font-size: 22px; color: #ff9acb; display: inline-block; margin-left: 6px;">
     💗 Desenvolvedora Web 💗
   </span>
 
   <br><br>
 
-  <!-- Gatinho menor segurando tudo no tema -->
+  <!-- Linha rosinha aesthetic -->
+  <img src="https://i.imgur.com/9P7B3Wj.png" width="500" />
 
-  <!-- Badges com cores oficiais (profissional) -->
-  <br>
+  <br><br>
+
+  <!-- Badges com cores oficiais -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
   <br><br>
 
 </div>
