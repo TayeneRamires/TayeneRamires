@@ -1,12 +1,10 @@
 <div align="center">
-
   <!-- GIF rosinha em destaque -->
   <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" 
        width="200" 
        style="border-radius: 14px; margin-bottom: 15px;" />
-
   <!-- Nome Estético -->
-  <h1 style="font-size: 28px; font-weight: 800; color: #ff9acb;">
+  <h1 style="font-size: 18px; font-weight: 800; color: #ff9acb;">
     ✨💗 Tayene Ramires 💗✨
   </h1>
 
