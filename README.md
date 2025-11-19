@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="GIF-DO-GATO-AQUI.gif" height="80" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" />
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓  
 ┃ 🌸 Tayene Ramires • Dev Web 🌸 ┃  
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛  
 
 </div>
-
 
 ---
 
