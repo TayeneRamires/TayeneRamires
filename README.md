@@ -6,20 +6,18 @@
 
 <div align="center">
 
-  <!-- Nome + separador + título -->
-  <span style="font-size: 42px; font-weight: 900; color: #ff7ab8; display: inline-block; margin-right: 8px;">
+  <!-- Nome + separador pink + título -->
+  <span style="font-size: 48px; font-weight: 900; color: #ff7ab8; display: inline-block; margin-right: 10px;">
     ✨ Tayene Ramires 
   </span>
 
-  <span style="font-size: 32px; color: #ff4fa3; font-weight: 900;">
+  <span style="font-size: 48px; color: #ff1493; font-weight: 900;">
     •
   </span>
 
-  <span style="font-size: 42px; color: #ff9acb; display: inline-block; margin-left: 8px;">
-      Desenvolvedora Web ✨
+  <span style="font-size: 48px; color: #ff9acb; display: inline-block; margin-left: 10px;">
+    Desenvolvedora Web ✨
   </span>
-
-  <br><br>
 
   <br><br>
 
