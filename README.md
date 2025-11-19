@@ -1,7 +1,7 @@
 <!-- TÍTULO (PERFEITO E CENTRALIZADO) -->
 <div align="center">
   
-  ## ✧･ﾟ: *✧･ﾟ:* Tayene Ramires • Desenvolvedora Web *:･ﾟ✧*:･ﾟ✧
+  ## ♡ Tayene Ramires • Desenvolvedora Web ♡
 </div>
 <!-- LINHA ROSA CENTRALIZADA SEM BUG -->
 
