@@ -1,12 +1,17 @@
 <div align="center">
 
-  <div>
-    <h1>✨ Tayene Ramires ✨</h1>
-    <h3>(Tay 💗)</h3>
-    <h3>💻 Desenvolvedora Web 💗</h3>
-  </div>
-
-  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="220" />
+<table>
+<tr>
+<td>
+<h1>✨ Tayene Ramires ✨</h1>
+<h3>(Tay 💗)</h3>
+<h3>💻 Desenvolvedora Web 💗</h3>
+</td>
+<td>
+<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="200">
+</td>
+</tr>
+</table>
 
 </div>
 
