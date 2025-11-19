@@ -1,21 +1,20 @@
 <div align="center">
-  <!-- GIF rosinha em destaque -->
+
   <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" 
        width="200" 
        style="border-radius: 14px; margin-bottom: 15px;" />
-  <!-- Nome Estético -->
-  <h1 style="font-size: 18px; font-weight: 800; color: #ff9acb;">
+
+  <span style="font-size: 32px; font-weight: 800; color: #ff9acb;">
     ✨💗 Tayene Ramires 💗✨
-  </h1>
+  </span>
 
-  <!-- Apelido -->
-  <h3 style="margin-top: -10px; color: #ffb6d9;">
-  </h3>
+  <br>
 
-  <!-- Título -->
-  <h2 style="color: #ff8fc7; margin-top: 5px;">
-    💻 Desenvolvedora Web
-  </h2>
+  <span style="font-size: 20px; color: #ff8fc7;">
+    💻 Desenvolvedora Web 💗
+  </span>
+
+</div>
 
   <!-- Badges com cores oficiais -->
   <br>
