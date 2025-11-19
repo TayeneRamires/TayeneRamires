@@ -1,31 +1,40 @@
+<!-- GIF no canto direito -->
+<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif"
+     width="140"
+     align="right"
+     style="border-radius: 12px; box-shadow: 0 0 10px #ff9acb;" />
+
 <div align="center">
 
-  <!-- GIF gatinho rosa dev-tech -->
-  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif"
-       width="200"
-       style="border-radius: 16px; margin-bottom: 18px; box-shadow: 0 0 12px #ff9acb;" />
+  <!-- Nome + separador + título -->
+  <span style="font-size: 30px; font-weight: 900; color: #ff7ab8; display: inline-block; margin-right: 8px;">
+    ✨ Tayene Ramires ✨
+  </span>
 
-  <!-- Nome + Título com ponto rosa separador -->
-  <div style="display: flex; justify-content: center; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 12px;">
-    <span style="font-size: 36px; font-weight: 900; color: #ff7ab8;">
-      ✨ Tayene Ramires ✨
-    </span>
-    <span style="font-size: 20px; color: #ff9acb;">●</span>
-    <span style="font-size: 28px; font-weight: 600; color: #ff9acb;">
-      💗 Desenvolvedora Web 💗
-    </span>
-  </div>
+  <span style="font-size: 26px; color: #ff4fa3; font-weight: 900;">
+    •
+  </span>
 
-  <!-- Linha decorativa -->
-  <hr style="border: none; height: 3px; width: 60%; background: linear-gradient(to right, #ffb6d9, #ff7ab8, #ffb6d9); border-radius: 4px; margin: 20px auto;" />
+  <span style="font-size: 24px; color: #ff9acb; display: inline-block; margin-left: 8px;">
+    💗 Desenvolvedora Web 💗
+  </span>
 
-  <!-- Badges com cores oficiais (profissional) -->
+  <br><br>
+
+  <!-- Linha rosinha aesthetic bonita -->
+  <img src="https://i.imgur.com/9P7B3Wj.png" width="500" />
+
+  <br><br>
+
+  <!-- Badges com cores oficiais -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
   <br><br>
 
 </div>
+
 
 ---
 
