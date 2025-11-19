@@ -1,34 +1,14 @@
 <!-- GIF no canto direito -->
-<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif"
-     width="140"
-     align="right"
-     style="border-radius: 12px; box-shadow: 0 0 10px #ff9acb;" />
+<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="140" align="right" />
 
-<div align="center">
+# ✨ Tayene Ramires 🩷 Desenvolvedora Web ✨
 
-  <h1 style="font-weight: 900;">
+---
 
-<div align="center">
-
-<h1 style="font-weight:900;">
-  <span style="color:#ff7ab8;">✨ Tayene Ramires </span>
-  <span style="color:#ff1493;">•</span>
-  <span style="color:#ff9acb;"> Desenvolvedora Web ✨</span>
-</h1>
-
-</div>
-
-
-  </h1>
-
-  <br>
-
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-
-</div>
+<!-- Badges com cores oficiais -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 
 ---
 
