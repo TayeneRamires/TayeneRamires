@@ -7,16 +7,16 @@
 <div align="center">
 
   <!-- Nome + separador + título -->
-  <span style="font-size: 32px; font-weight: 900; color: #ff7ab8; display: inline-block; margin-right: 8px;">
-    ✨ Tayene Ramires ✨
+  <span style="font-size: 42px; font-weight: 900; color: #ff7ab8; display: inline-block; margin-right: 8px;">
+    ✨ Tayene Ramires 
   </span>
 
   <span style="font-size: 32px; color: #ff4fa3; font-weight: 900;">
     •
   </span>
 
-  <span style="font-size: 32px; color: #ff9acb; display: inline-block; margin-left: 8px;">
-    💗 Desenvolvedora Web 💗
+  <span style="font-size: 42px; color: #ff9acb; display: inline-block; margin-left: 8px;">
+      Desenvolvedora Web ✨
   </span>
 
   <br><br>
