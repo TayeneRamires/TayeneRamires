@@ -54,7 +54,7 @@ Atualmente estou:
 ## 💡 Meu jeito de trabalhar
 
 - Sou **curiosa** — sempre quero entender o “porquê” das coisas.  
-- Tenho **visão analítica**, muito por causa da minha experiência no setor financeiro.  
+- Tenho **visão analítica**, muito por causa da minha experiência no setor bancário.  
 - Gosto das coisas **organizadas e esteticamente agradáveis**.  
 - Não tenho medo de aprender do zero.  
 - Tenho **foco, disciplina e vontade de crescer** na área de desenvolvimento.
