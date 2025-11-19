@@ -11,13 +11,11 @@
   </h1>
 
   <!-- Apelido -->
-  <h3 style="margin-top: -10px; color: #ffb6d9;">
-    (Tay 🌸)
   </h3>
 
   <!-- Título -->
   <h2 style="color: #ff8fc7; margin-top: 5px;">
-    💻 Desenvolvedora Web • Pink Tech Lover 🌸
+    💻 Desenvolvedora Web
   </h2>
 
   <!-- Badges Rosinhas -->
