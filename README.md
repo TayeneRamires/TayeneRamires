@@ -1,15 +1,33 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="180" style="border-radius: 12px; margin-bottom: 10px;" />
+  <!-- GIF rosinha em destaque -->
+  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" 
+       width="200" 
+       style="border-radius: 14px; margin-bottom: 15px;" />
 
-  <h1>✨ Tayene Ramires ✨</h1>
-  <h3>(Tay 💗)</h3>
-  <h2>💻 Desenvolvedora Web 💗</h2>
+  <!-- Nome Estético -->
+  <h1 style="font-size: 42px; font-weight: 800; color: #ff9acb;">
+    ✨💗 Tayene Ramires 💗✨
+  </h1>
 
+  <!-- Apelido -->
+  <h3 style="margin-top: -10px; color: #ffb6d9;">
+    (Tay 🌸)
+  </h3>
+
+  <!-- Título -->
+  <h2 style="color: #ff8fc7; margin-top: 5px;">
+    💻 Desenvolvedora Web • Pink Tech Lover 🌸
+  </h2>
+
+  <!-- Badges Rosinhas -->
   <br>
+  <img src="https://img.shields.io/badge/JavaScript-FFC6E9?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-F8A1D1?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-FF8EC3?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-FF7AB8?style=for-the-badge&logo=github&logoColor=white" />
 
-  <p style="max-width: 480px; text-align: center;">
-  </p>
+  <br><br>
 
 </div>
 
