@@ -27,8 +27,6 @@
   <br><br>
 
 </div>
-
-<br><br>
 ---
 
 Sou naturalmente **curiosa**, daquela que não sossega até entender *por que o código quebrou*, e adoro aprender coisas novas todos os dias.
