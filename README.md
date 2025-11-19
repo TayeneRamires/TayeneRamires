@@ -1,5 +1,13 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="350" />
+<div style="display: flex; align-items: center; justify-content: center; gap: 25px;">
+
+  <div>
+    <h1 style="margin: 0; font-size: 30px;">✨ Tayene Ramires ✨</h1>
+    <h3 style="margin: 4px 0; font-weight: 400;">(Tay 💗)</h3>
+    <h3 style="margin: 6px 0; font-size: 20px;">💻 Desenvolvedora Web 💗</h3>
+  </div>
+
+  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="180" />
+
 </div>
 
 ---
