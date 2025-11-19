@@ -24,15 +24,12 @@
 
   <br>
 
-  <!-- Badges com cores oficiais -->
+  <!-- Badges -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 
-  <br><br>
-
 </div>
-
 
 ---
 
