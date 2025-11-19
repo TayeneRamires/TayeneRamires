@@ -2,20 +2,21 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="140" />
+    <td align="center" width="200">
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="130">
     </td>
-    <td>
-
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓  
-┃ 🌸 Tayene Ramires • Dev Web 🌸 ┃  
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛  
+    <td align="center" style="font-size: 22px; font-weight: bold; color: #ffb3da;">
+      
+      ✦━━━━━━━━━━✦  
+      🌸 Tayene Ramires • Dev Web 🌸  
+      ✦━━━━━━━━━━✦
 
     </td>
   </tr>
 </table>
 
 </div>
+
 ---
 
 Sou naturalmente **curiosa**, daquela que não sossega até entender *por que o código quebrou*, e adoro aprender coisas novas todos os dias.
