@@ -1,39 +1,28 @@
 <div align="center">
 
-  <!-- GIF gatinho rosa dev-tech -->
   <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif"
        width="200"
        style="border-radius: 16px; margin-bottom: 18px; box-shadow: 0 0 12px #ff9acb;" />
 
+  <span style="font-size: 36px; font-weight: 900; color: #ff7ab8;">
+    ✨ Tayene Ramires
+  </span>
+  <span style="font-size: 36px; font-weight: 900; color: #ff7ab8;">
+    •
+  </span>
+  <span style="font-size: 36px; font-weight: 900; color: #ff9acb;">
+    Desenvolvedora Web 💗
+  </span>
+
+  <hr style="border: none; height: 2px; background-color: #ff9acb; margin: 20px 0;">
+
   <br>
-
-  <!-- Nome + ponto rosa + Desenvolvedora Web -->
-  <span style="font-size: 28px; font-weight: 900; color: #ff7ab8; display: inline-block; margin-right: 6px;">
-    ✨ Tayene Ramires ✨
-  </span>
-
-  <span style="font-size: 24px;">🌸</span>
-
-  <span style="font-size: 22px; color: #ff9acb; display: inline-block; margin-left: 6px;">
-    💗 Desenvolvedora Web 💗
-  </span>
-
-  <br><br>
-
-  <!-- Linha rosinha aesthetic -->
-  <img src="https://i.imgur.com/9P7B3Wj.png" width="500" />
-
-  <br><br>
-
-  <!-- Badges com cores oficiais -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-
   <br><br>
 
 </div>
-
 ---
 
 Sou naturalmente **curiosa**, daquela que não sossega até entender *por que o código quebrou*, e adoro aprender coisas novas todos os dias.
