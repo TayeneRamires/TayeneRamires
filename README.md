@@ -1,7 +1,12 @@
 <div align="center">
 
+╭── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╮  
 # 🌸 Tayene Ramires • Desenvolvedora Web  
-✨ Pode me chamar de **Tay** ✨
+✨ Pode me chamar de <strong>Tay</strong> ✨  
+╰── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╯
+
+</div>
+
 
 </div>
 
