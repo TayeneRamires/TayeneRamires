@@ -1,13 +1,10 @@
 <div align="center">
-
-╭── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╮  
-# 🌸 Tayene Ramires • Desenvolvedora Web  
-✨ Pode me chamar de <strong>Tay</strong> ✨  
-╰── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╯
-
-</div>
-
-
+  <img src="LINK-DO-GIF" width="120px" />
+  <span style="margin-left: 20px;">
+    ┏━━━━━━━━━━━━━━━━━━━┓  
+    ┃ 🌸 Tayene Ramires • Dev Web 🌸 ┃  
+    ┗━━━━━━━━━━━━━━━━━━━┛  
+  </span>
 </div>
 
 ---
