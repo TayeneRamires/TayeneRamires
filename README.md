@@ -11,6 +11,7 @@
   </h1>
 
   <!-- Apelido -->
+  <h3 style="margin-top: -10px; color: #ffb6d9;">
   </h3>
 
   <!-- Título -->
@@ -18,19 +19,16 @@
     💻 Desenvolvedora Web
   </h2>
 
-  <!-- Badges Rosinhas -->
+  <!-- Badges com cores oficiais -->
   <br>
-  <img src="https://img.shields.io/badge/JavaScript-FFC6E9?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-F8A1D1?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-FF8EC3?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-FF7AB8?style=for-the-badge&logo=github&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <br><br>
 
 </div>
 
 <br><br>
-
 ---
 
 Sou naturalmente **curiosa**, daquela que não sossega até entender *por que o código quebrou*, e adoro aprender coisas novas todos os dias.
