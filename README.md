@@ -1,10 +1,10 @@
 <!-- TÍTULO (PERFEITO E CENTRALIZADO) -->
 <div align="center">
-<h1> ˖° Tayene Ramires  °˖ <h1> 
+<h1>   ˚· Tayene Ramires ·˚ <h1> 
 </div>
 
 <!-- GIF NO CANTO DIREITO (SEM AFETAR O TÍTULO) -->
-<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="260" align="right" />
+<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="200" align="right" />
 
 Sou naturalmente **curiosa**, daquela que não sossega até entender *por que o código quebrou*,  
 e adoro aprender coisas novas todos os dias. Atualmente estou:
