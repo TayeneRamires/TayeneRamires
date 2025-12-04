@@ -1,6 +1,6 @@
 <!-- TÍTULO (PERFEITO E CENTRALIZADO) -->
 <div align="center">
-<h1> ✧˖° Tayene Ramires  °˖✧ <h1> 
+<h1> ˖° Tayene Ramires  °˖ <h1> 
 </div>
 
 <!-- GIF NO CANTO DIREITO (SEM AFETAR O TÍTULO) -->
