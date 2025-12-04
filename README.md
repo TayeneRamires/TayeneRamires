@@ -1,8 +1,6 @@
 <!-- TÍTULO (PERFEITO E CENTRALIZADO) -->
 <div align="center">
-  
   ## <h1> ♡⋆｡°✧ Tayene Ramires ✧°｡⋆♡ <h1> 
-  • Desenvolvedora Web 
 </div>
 
 <!-- GIF NO CANTO DIREITO (SEM AFETAR O TÍTULO) -->
