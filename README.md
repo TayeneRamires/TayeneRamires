@@ -7,6 +7,10 @@
 <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="215" align="right" />
 
 Sou curiosa e sempre tento entender melhor o que faço. Aprendo um pouco mais a cada dia e evoluo um passo de cada vez. 
+
+
+
+
 Atualmente estou:
 - 🎓 Estudando **Sistemas de Informação** na Faculdade Impacta  
 - 💻 Participando do **Bootcamp Full-Stack JavaScript** da Generation Brasil  
