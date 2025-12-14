@@ -31,10 +31,6 @@ Atualmente estou:
 [![REST API](https://img.shields.io/badge/REST_API-61DAFB?logo=rest-api&logoColor=black&style=for-the-badge)](https://restfulapi.net/)
 [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge)](https://insomnia.rest/)
 
----
-## 🌟 Projetos em Destaque
-<table> <tr> <td width="33%"> <h3>🛍️ Mundo Rosinha Kids</h3> <p>Mini e-commerce em TypeScript utilizando POO, repositórios, abstração e menu personalizado no tema rosa.</p> <a href="https://github.com/TayeneRamires/projeto_final_bloco_01/tree/menu"><b>🔗 Acessar Repositório</b></a> </td> <td width="33%"> <h3>💳 Banco do Brazil com Z</h3> <p>Sistema bancário completo com herança, polimorfismo e regras de negócio bem estruturadas.</p> <a href="https://github.com/TayeneRamires/conta-bancaria-ts"><b>🔗 Acessar Repositório</b></a> </td> <td width="33%"> <h3>📚 Exercícios JavaScript</h3> <p>Repositório de prática diária com lógica, JS, TS e exercícios do bootcamp Generation Brasil.</p> <a href="https://github.com/TayeneRamires/Exercicios-JavaScript-2910"><b>🔗 Acessar Repositório</b></a> </td> </tr> </table>
-
 
 
 
