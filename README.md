@@ -4,7 +4,7 @@
 </div>
 
 <!-- GIF NO CANTO DIREITO (SEM AFETAR O TÍTULO) -->
-<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="215" align="right" />
+<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="180" align="right" />
 
 <h2>Processo, critério e responsabilidade guiam meu trabalho!</h2>
 
