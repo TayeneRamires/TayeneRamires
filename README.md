@@ -6,7 +6,7 @@
 <!-- GIF NO CANTO DIREITO (SEM AFETAR O TÍTULO) -->
 <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="215" align="right" />
 
-Sou curiosa e sempre tento entender melhor o que faço. Aprendo um pouco mais a cada dia e evoluo um passo de cada vez. 
+Processo, critério e responsabilidade guiam meu trabalho!
 
 
 
