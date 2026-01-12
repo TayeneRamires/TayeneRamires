@@ -12,10 +12,10 @@ Sou curiosa e sempre tento entender melhor o que faço. Aprendo um pouco mais a 
 
 
 Atualmente estou:
-- 🎓 Estudando **Sistemas de Informação** na Faculdade Impacta  
-- 💻 Participando do **Bootcamp Full-Stack JavaScript** da Generation Brasil  
-- 🧠 Aprofundando meus estudos em JavaScript, TypeScript, Node.js, Nest.js POO e Lógica de Programação  
-- 🚀 Em transição do setor financeiro para tecnologia, trazendo comigo organização, visão de processos, disciplina e foco  
+-  Estudando **Sistemas de Informação** na Faculdade Impacta  
+-  Participando do **Bootcamp Full-Stack JavaScript** da Generation Brasil  
+-  Aprofundando meus estudos em JavaScript, TypeScript, Node.js, Nest.js, HTML, CSS, POO e Lógica de Programação  
+-  Em transição do setor financeiro para tecnologia, trazendo comigo organização, visão de processos, disciplina e foco  
 
 ---
   ## Contato
