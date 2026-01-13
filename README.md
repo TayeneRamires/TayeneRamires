@@ -27,6 +27,9 @@ Atualmente estou:
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)](https://nestjs.com/)
 [![REST API](https://img.shields.io/badge/REST_API-61DAFB?logo=rest-api&logoColor=black&style=for-the-badge)](https://restfulapi.net/)
 [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge)](https://insomnia.rest/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
 
 
 
