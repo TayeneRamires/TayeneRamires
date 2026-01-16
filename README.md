@@ -1,13 +1,6 @@
 <!-- TÍTULO (PERFEITO E CENTRALIZADO) -->
 <img src="./assets/banner.png">
 
-<div align="center">
-<h1>   ˚· Tayene Ramires ·˚ <h1> 
-</div>
-
-<!-- GIF NO CANTO DIREITO (SEM AFETAR O TÍTULO) -->
-<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="180" align="right" />
-
 Processo, critério e responsabilidade guiam meu trabalho!
 
 Atualmente estou:
@@ -31,4 +24,5 @@ Atualmente estou:
 [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge)](https://insomnia.rest/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
 
