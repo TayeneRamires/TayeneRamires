@@ -12,9 +12,17 @@ Atualmente estou:
 ---
   ## Contato
 
-<a href="mailto:tayene000@gmail.com"><img height="32" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://wa.me/5511932280610"><img height="32" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a><a href="https://www.linkedin.com/in/tayeneramires/"><img height="32" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://github.com/TayeneRamires"><img height="32" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<p align="left">
+  <a href="mailto:tayene000@gmail.com">
+    <img height="32" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/5511932280610">
+    <img height="32" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tayeneramires/">
+    <img height="32" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/TayeneRamires">
+    <img height="32" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
-## 🔧 Backend
+  ## Backend
 
 <p align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
@@ -34,7 +42,7 @@ Atualmente estou:
 </p>
 
 
-## 🎨 Frontend
+  ## Frontend
 
 <p align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
