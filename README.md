@@ -17,34 +17,35 @@ Atualmente estou:
 ## 🔧 Backend
 
 <p align="left">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" /></a>
-  <a href="https://www.python.org/doc/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" /></a>
-  <a href="https://nodejs.org/en/docs" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" /></a>
-  <a href="https://docs.nestjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E" /></a>
-  <a href="https://restfulapi.net/" target="_blank">
-    <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=009688" /></a>
-  <a href="https://docs.insomnia.rest/" target="_blank">
-    <img src="https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=insomnia&logoColor=4000BF" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/></a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.python.org/doc/">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://nestjs.com/">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://restfulapi.net/">
+    <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/></a>
+  <a href="https://insomnia.rest/">
+    <img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge"/></a>
 </p>
+
 
 ## 🎨 Frontend
 
 <p align="left">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" /></a>
-  <a href="https://react.dev/learn" target="_blank">
-    <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-  <a href="https://vitejs.dev/guide/" target="_blank">
-    <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=646CFF" /></a>
-  <a href="https://tailwindcss.com/docs" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/></a>
+  <a href="https://vite.dev/guide/">
+    <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://tailwindcss.com/docs">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge"/></a>
 </p>
 
