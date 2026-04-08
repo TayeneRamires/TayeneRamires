@@ -1,14 +1,13 @@
 <!-- TÍTULO (PERFEITO E CENTRALIZADO) -->
 <img src="./assets/banner.png">
 
-## Aprendendo, construindo e evoluindo na tecnologia todos os dias.
+### Aprendendo, construindo e evoluindo na tecnologia todos os dias.
 
 Atualmente estou:
 
 - Cursando **Sistemas de Informação** na Faculdade Impacta  
 - Formada pelo **Bootcamp Full-Stack JavaScript** da Generation Brasil  
 - Realizando o **Santander Jornada Tech AWS**  
-- Me preparando para a certificação **GitHub Foundations**  
 - Aprofundando meus conhecimentos em **Java**, **JavaScript**, **TypeScript**, **React.js**, **Node.js**, **NestJS**, **HTML**, **CSS**, **POO** e **Lógica de Programação**  
 - Atuando como **Desenvolvedora Full-Stack voluntária** na **Connect Byte**  
 - Construindo minha transição da área financeira para a tecnologia, unindo organização, pensamento analítico, disciplina e vontade constante de aprender
